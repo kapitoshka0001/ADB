@@ -1,0 +1,12 @@
+./ToDoList2/app/build.gradle:10:        applicationId "com.example.todolist"
+./ToDoList2/app/src/androidTest/java/com/example/todolist/ExampleInstrumentedTest.kt:1:package com.example.todolist
+./ToDoList2/app/src/androidTest/java/com/example/todolist/ExampleInstrumentedTest.kt:22:        assertEquals("com.example.todolist", appContext.packageName)
+./ToDoList2/app/src/test/java/com/example/todolist/ExampleUnitTest.kt:1:package com.example.todolist
+./ToDoList2/app/src/main/AndroidManifest.xml:3:    package="com.example.todolist">
+./ToDoList2/app/src/main/java/com/example/todolist/MainActivity.kt:1:package com.example.todolist
+./ToDolist/app/build.gradle:10:        applicationId "com.example.todolist"
+./ToDolist/app/src/androidTest/java/com/example/todolist/ExampleInstrumentedTest.kt:1:package com.example.todolist
+./ToDolist/app/src/androidTest/java/com/example/todolist/ExampleInstrumentedTest.kt:22:        assertEquals("com.example.todolist", appContext.packageName)
+./ToDolist/app/src/test/java/com/example/todolist/ExampleUnitTest.kt:1:package com.example.todolist
+./ToDolist/app/src/main/AndroidManifest.xml:3:    package="com.example.todolist">
+./ToDolist/app/src/main/java/com/example/todolist/MainActivity.kt:1:package com.example.todolist
